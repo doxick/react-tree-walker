@@ -16,4 +16,4 @@ flow-coverage
 flow-typed
 
 # Build output
-dist
+# dist // required for github push
